@@ -1,4 +1,3 @@
-This mod allows networking features in Minecraft. WIP
 
 ## License
 
